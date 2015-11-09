@@ -1,0 +1,9 @@
+C:\Users\kmaAdmin\Documents\GitHub\line-x\LineXSliders\bin\Debug\LineXSliders.dll
+C:\Users\kmaAdmin\Documents\GitHub\line-x\LineXSliders\bin\Debug\LineXSliders.pdb
+C:\Users\kmaAdmin\Documents\GitHub\line-x\LineXSliders\bin\Debug\LineXSliders.xml
+C:\Users\kmaAdmin\Documents\GitHub\line-x\LineXSliders\bin\Debug\CPBase.dll
+C:\Users\kmaAdmin\Documents\GitHub\line-x\LineXSliders\obj\Debug\Resources.resources
+C:\Users\kmaAdmin\Documents\GitHub\line-x\LineXSliders\obj\Debug\LineXSliders.vbproj.GenerateResource.Cache
+C:\Users\kmaAdmin\Documents\GitHub\line-x\LineXSliders\obj\Debug\LineXSliders.dll
+C:\Users\kmaAdmin\Documents\GitHub\line-x\LineXSliders\obj\Debug\LineXSliders.xml
+C:\Users\kmaAdmin\Documents\GitHub\line-x\LineXSliders\obj\Debug\LineXSliders.pdb
